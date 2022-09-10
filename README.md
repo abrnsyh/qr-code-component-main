@@ -8,7 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
-    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -23,10 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./screenshots/web_capture.jpeg)
-
-### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
